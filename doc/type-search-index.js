@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"aplicacionCompleta","l":"Alumno"},{"p":"aplicacionCompleta","l":"GestionBBDD"},{"p":"aplicacionCompleta","l":"Principal"},{"p":"aplicacionCompleta","l":"Tabla"},{"p":"aplicacionCompleta","l":"Ventana"}];updateSearchResults();
