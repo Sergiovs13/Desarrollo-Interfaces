@@ -12,6 +12,8 @@ import java.awt.Component;
 import javax.swing.JComboBox;
 import javax.swing.DefaultComboBoxModel;
 import javax.swing.JTextField;
+import javax.swing.UIManager;
+import javax.swing.UnsupportedLookAndFeelException;
 import javax.swing.JButton;
 import javax.swing.JMenuBar;
 import javax.swing.JMenu;
@@ -41,6 +43,7 @@ public class Ventana extends JFrame{
 	 * Constructor de la Clase
 	 */
 	public Ventana() {
+		
 		iniciarComponentes();
 	}
 
